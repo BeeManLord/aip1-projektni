@@ -136,7 +136,7 @@ int main()
 
     while (1)
     {
-        system("clear");
+        system("cls");
 
         // unosi slova iznad ploče
         printf("   ");
